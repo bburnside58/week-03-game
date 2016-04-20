@@ -1,0 +1,38 @@
+body{
+	background:url(../images/psychic-reading.jpg);
+	background-size: 100%;
+}
+
+header{
+	font-size: 80px;
+	padding-bottom: 40px;
+	padding-top: 10px;
+	color: B2033D;
+}
+
+p{
+	font-size: 40px;
+	padding-bottom: 20px;
+	text-decoration: underline;
+	color: B2033D;
+}
+
+#wins{
+	font-size:40px;
+	color: B2033D;
+}
+
+#losses{
+	font-size:40px;
+	color: B2033D;
+}
+
+#guessesleft{
+	font-size:40px;
+	color: B2033D;
+}
+
+#sofar{
+	font-size:40px;
+	color: B2033D;
+}
